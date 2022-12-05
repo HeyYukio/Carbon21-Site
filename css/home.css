@@ -1,8 +1,28 @@
+
+.technologies-section{
+    padding-bottom: 10rem; 
+}
+
+.technologies-section h1{
+    padding: 2rem 0; 
+}
+
+.tech-img{
+    width: 200px;
+    height: 150px;
+}
+
+#tech-row-1{
+    width: 70%;
+    height: 30%;
+}
+
+#tech-row-2{
+    width: 50%;
+    height: 30%;
+}
+
 .carousel-image{
-    /* max-width: 30%;
-    max-height: 30%;
-    min-height: 30%;
-    min-width: 30%; */
-    width: 400px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
 }
