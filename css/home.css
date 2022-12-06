@@ -8,7 +8,7 @@
 }
 
 .tech-img{
-    width: 12rem;
+    width: 15rem;
     height: 10rem;
 }
 
@@ -25,4 +25,24 @@
 .carousel-image{
     width: 150px;
     height: 150px;
+}
+
+.hyperledger-img{
+    width: 18rem;
+    height: 10rem;
+}
+
+.docker-img{
+    width: 14rem;
+    height: 11rem;
+}
+
+
+.ipfs-img{
+    width: 12rem;
+    height: 11rem;
+}
+
+.gallery-container{
+    padding: 5rem; 
 }
