@@ -25,7 +25,7 @@
 
 .gallery-section{
     width: 100%;
-    padding: 2rem 5rem 8rem 5rem;
+    /* padding: 2rem 5rem 8rem 5rem; */
 }
 
 .gallery-section .carousel-image{
@@ -55,5 +55,5 @@
 }
 
 .gallery-container{
-    padding: 5rem; 
+    /* padding: 5rem;  */
 }
