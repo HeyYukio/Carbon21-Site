@@ -1,5 +1,6 @@
 
 .technologies-section{
+    padding-top: 2rem;
     padding-bottom: 10rem; 
 }
 
@@ -22,7 +23,16 @@
     height: 30%;
 }
 
-.carousel-image{
+.gallery-section{
+    padding: 2rem 5rem 8rem 5rem;
+}
+
+.gallery-section .carousel-image{
+    width: 60rem;
+    height: 30rem;
+}
+
+.about-us .carousel-image{
     width: 150px;
     height: 150px;
 }
